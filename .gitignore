@@ -1,0 +1,26 @@
+# Dependency directories
+/node_modules
+
+# TypeScript output directory
+/dist
+
+# Editor directories
+/.vscode
+/.idea
+/.vs
+
+# Build and deployment files
+/.env
+/.env.*
+/.DS_Store
+
+# Logs
+*.log
+
+# Testing files
+/coverage
+
+
+
+# macOS specific files
+.DS_Store

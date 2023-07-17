@@ -1,0 +1,14 @@
+{
+  "name": "musets",
+  "version": "1.0.0",
+  "description": "typescript web framework that abstracts away cross-network communication to be as easy as calling a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
